@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ca.bcit.comp2522.bank.iml" filepath="$PROJECT_DIR$/ca.bcit.comp2522.bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COMP2522_Lab1.iml" filepath="$PROJECT_DIR$/COMP2522_Lab1.iml" />
     </modules>
   </component>
 </project>
