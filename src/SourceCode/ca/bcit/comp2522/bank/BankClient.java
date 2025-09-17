@@ -61,6 +61,10 @@ public final class BankClient
 
     }
 
+    public Name getName() {
+        return name;
+    }
+
 
 
     public static void main(final String[] args)
