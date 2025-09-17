@@ -90,15 +90,16 @@ public final class BankClient
         }
     }
 
+
     /**
      * Returns true if the client is still alive.
      *
      * @return true if dateDied is null, false otherwise
      */
-    public boolean isAlive()
-    {
+    public boolean isAlive() {
         return dateDied == null;
     }
+
 
     /**
      * Returns details about the client in the required format.
